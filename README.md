@@ -1,7 +1,7 @@
 # flappy_bird_dqn
 Using Dueling DQN to solve flappy_bird from pixel.
 
-blog: <https://blog.fromkk.com/post/using-ddqn-to-play-flappy-bird/>
+blog: <https://www.fromkk.com/posts/using-ddqn-to-play-flappy-bird/>
 
 This ipynb can run in Google Colab. When frameskipping=1, the result is here
 
